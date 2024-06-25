@@ -6,8 +6,8 @@ import Footer from './components/Footer';
 function App() {
   return (
     <>
-      <CharacterEditor />
-      <Footer />
+        <CharacterEditor />
+        <Footer />
     </>
   );
 }
